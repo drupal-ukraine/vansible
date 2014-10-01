@@ -9,9 +9,9 @@ ansible playbooks working everywhere you are able to run vagrant - do use this r
 
 How it works
 
-1 - ansible installed within guest
-2 - inventory and playbook.yml copied inside
-3 - ansible-playbook run inside
+- ansible installed within guest
+- inventory and playbook.yml copied inside
+- ansible-playbook run inside
 
 Feel free to post Pull Requests.
 
